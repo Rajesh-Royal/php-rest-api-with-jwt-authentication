@@ -3,10 +3,10 @@ Rest API in Object oriented PHP with jason web tocken authentication | CRUD read
 
 The API is written in PHP with MySQL as the datastore and jwt for authentication.
 
-##STEPS FOR SETTING IT UP
+## STEPS FOR SETTING IT UP
 
 
-##REFERENCES
+## REFERENCES
 
 PHP Documentation: http://php.net/manual/en/
 
